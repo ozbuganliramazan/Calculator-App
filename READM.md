@@ -2,7 +2,7 @@
 
 
 
-<p>Html Css Javascrip Beraber Hesap Makinası</p>
+<p>Html Css Javascript Beraber Hesap Makinası</p>
 
 
 <img src="logo.gif" />
