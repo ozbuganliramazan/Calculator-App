@@ -2,7 +2,7 @@
 
 
 
-<p>Html Css Javascript Beraber Hesap Makinası</p>
+<p> Calculator Application with HTML CSS Javascript </p>
 
 
 <img src="logo.gif" />
